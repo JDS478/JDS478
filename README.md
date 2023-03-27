@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate fullstack rails developer from London</h3>
+<h3 align="center">A passionate junior fullstack developer from London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jds478&label=Profile%20views&color=0e75b6&style=flat" alt="jds478" /> </p>
 
