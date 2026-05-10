@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on CS50
+A Fullstack Ruby Developer from Birmingham.
+
+🌱 I'm currently working on CS50.
 
 
 ## 🌐 Socials:
